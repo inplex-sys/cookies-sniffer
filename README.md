@@ -1,6 +1,4 @@
-# Dark Utilities - Cookies-sniffer
-
-Our Website [https://dark-utilities.me/](https://dark-utilities.me/) !
+# Cookies-sniffer
 
 # Features!
 
@@ -32,3 +30,6 @@ Edit credentials in `config.json`
   "logs":[]
 }
 ```
+
+### Disclamer
+This repository is for academic purposes, the use of this software is your responsibility.
